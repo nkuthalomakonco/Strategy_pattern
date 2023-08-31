@@ -1,4 +1,4 @@
-# Strategy_pattern
+# Strategy Pattern
 
 ![Strategy_Pattern_in_UML](https://github.com/nkuthalomakonco/Strategy_pattern/assets/118244106/b831b8ca-a6ec-41b1-aa63-ddffcb920a5d)
 
